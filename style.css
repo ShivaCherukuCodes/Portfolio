@@ -705,7 +705,9 @@ textarea {
     border-radius: 5px;
     font-weight: 600;
     color: #777; }
-
+.center-footer {
+  text-align: center;
+}
 .mouse {
   width: 25px;
   height: 40px;
